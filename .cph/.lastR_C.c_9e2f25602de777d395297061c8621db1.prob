@@ -1,0 +1,1 @@
+{"name":"Local: lastR_C","url":"c:\\Users\\rafik\\OneDrive\\Desktop\\phitron\\week-5-2d-array\\lastR_C.c","tests":[{"id":1702642017699,"input":"3 4\n1 2 3 4\n5 6 7 8\n6 5 4 2","output":"6 5 4 2 \n4 8 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\rafik\\OneDrive\\Desktop\\phitron\\week-5-2d-array\\lastR_C.c","group":"local","local":true}

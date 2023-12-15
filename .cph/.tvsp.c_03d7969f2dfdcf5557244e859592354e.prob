@@ -1,0 +1,1 @@
+{"name":"Local: tvsp","url":"c:\\Users\\rafik\\OneDrive\\Desktop\\phitron\\week-5-2d-array\\tvsp.c","tests":[{"id":1702635026107,"input":"3\n5\nTPTPP\n3\nTTP\n4\nTPPT","output":"Pathaan\nTiger\nDraw"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\rafik\\OneDrive\\Desktop\\phitron\\week-5-2d-array\\tvsp.c","group":"local","local":true}
